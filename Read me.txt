@@ -1,0 +1,12 @@
+Attached database. if you use my database or use a fresh database by "php artisan migrate",
+then run command "php artisan db:seed --class=AdministratorSeeder" for seeder.
+Default administrator credentials.
+Email: administrator@gmail.com
+Password: administrator@gmail.com
+
+Administrator part & Visitor part by VueJs.
+
+If you have any queries please knock me.
+Hanif Mia Fabel
++8801823710688
+bondhupabel@gmail.com
